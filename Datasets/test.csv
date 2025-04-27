@@ -1,0 +1,11 @@
+Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname
+Brunswick,1/32 Donald St,2,u,587000.0,SP,Jellis,12-11-2016,5.2,3056,2.0,1.0,1.0,114.0,65.0,1970.0,Moreland City Council,-37.758,144.9667,Northern Metropolitan
+Brunswick West,28 Cadman St,3,h,1060000.0,S,Walshe,13-05-2017,5.9,3055,3.0,1.0,2.0,465.0,,,Moreland City Council,-37.7572,144.9486,Northern Metropolitan
+Fitzroy North,99 Newry St,2,h,1680000.0,S,Nelson,24-06-2017,3.6,3068,2.0,1.0,1.0,185.0,,,Moreland City Council,-37.7907,144.98163,Northern Metropolitan
+Williamstown,74 Thompson St,4,h,,S,RT,06-08-2016,8.0,3016,3.0,0.0,0.0,344.0,,,Hobsons Bay City Council,-37.8683,144.9025,Western Metropolitan
+Seddon,2 Seddon St,2,h,1025000.0,SP,Sweeney,18-03-2017,6.6,3011,2.0,1.0,0.0,248.0,,,Maribyrnong City Council,-37.8083,144.8896,Western Metropolitan
+Cheltenham,5 Glenden Rt,3,h,740000.0,S,Ray,03-06-2017,17.9,3192,,,,,,,Bayside City Council,,,Southern Metropolitan
+Newport,279 Melbourne Rd,4,h,,SN,Williams,22-05-2016,8.4,3015,4.0,2.0,3.0,363.0,190.0,2002.0,Hobsons Bay City Council,-37.8472,144.886,Western Metropolitan
+Canterbury,42 Warburton Rd,3,h,2200000.0,VB,Noel,07-05-2016,9.0,3126,3.0,3.0,2.0,468.0,148.0,1890.0,Boroondara City Council,-37.8264,145.0741,Southern Metropolitan
+Oak Park,7 Ridge Rd,4,h,860000.0,PI,Jellis,20-05-2017,11.5,3046,4.0,2.0,2.0,301.0,,,Moreland City Council,-37.7149,144.9153,Northern Metropolitan
+Dandenong North,227 Stud Rd,3,h,,SN,Barry,03-06-2017,24.7,3175,3.0,1.0,2.0,544.0,100.0,1970.0,Greater Dandenong City Council,-37.96652,145.22369,South-Eastern Metropolitan
