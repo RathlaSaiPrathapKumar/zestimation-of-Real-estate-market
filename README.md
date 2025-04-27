@@ -47,7 +47,11 @@ This project is a comprehensive real estate market analysis and prediction syste
 
 ## Installation
 1. Clone the repository
-2. Install the required packages:
+   ```
+     git clone https://github.com/RathlaSaiPrathapKumar/zestimation-of-Real-estate-market.git
+     cd zestimation-of-Real-estate-market
+   ```
+3. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
